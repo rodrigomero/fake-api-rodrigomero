@@ -6,6 +6,8 @@ Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configur
 
 A API tem um total de 3 endpoints, sendo 2 para dados e um para autenticação, podemos postar posts que todos conseguem visualizar mas apenas usuarios logados podem escreve-los, temos tambem os reports que são arquivos que apenas usuarios logados conseguem acessa-los.
 
+rota: `https://fake-api-rodrigomero.herokuapp.com/`
+
 ## Rotas que não precisam de autenticação
 
 <h2 align ='center'> Listando posts </h2>
