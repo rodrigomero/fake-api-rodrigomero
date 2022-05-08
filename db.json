@@ -7,5 +7,23 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "title": "Javascript",
+      "data": "Javascrippppt",
+      "id": 1
+    }
+  ],
+  "reports": [
+    {
+      "userId": 1,
+      "data": {
+        "title": "title1",
+        "content": "paragraph1"
+      },
+      "id": 1
+    }
   ]
 }
